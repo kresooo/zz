@@ -5,4 +5,3 @@ export const Thing = () => {
   return <div>the snozzberries taste like snozzberries</div>;
 };
 
-console.log('changee')
